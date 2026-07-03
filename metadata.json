@@ -1,0 +1,6 @@
+{
+  "name": "Republic Student One",
+  "description": "Enterprise-grade digital ecosystem for the Life Skills & Citizenship Education Program, with secure multi-role dashboards and AI assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
